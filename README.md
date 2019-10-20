@@ -1,7 +1,7 @@
 # UV Rectangler  
 3Dモデルの選択面のUV座標を四角形に整列させるBlenderアドオンです。  
 Blendre addon to align UV vertices to rectangle in selected faces.  
-[Download](https://fujisunflower.booth.pm/items/1632106)  
+[Download](https://fujisunflower.booth.pm/items/1632106) [Wiki](https://github.com/FujiSunflower/uv_rectangler/wiki)
 ![](https://github.com/FujiSunflower/uv_rectangler/blob/master/thumbnail.png)  
 # 使い方 / How to use  
 ![](https://github.com/FujiSunflower/uv_rectangler/blob/master/figure1_1.png)   
